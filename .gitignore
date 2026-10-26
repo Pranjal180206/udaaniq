@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.streamlit/secrets.toml
+flights_sample_3m.csv
+.DS_Store
+Thumbs.db
